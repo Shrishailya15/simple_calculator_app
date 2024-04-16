@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My First Application</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="star">*</string>
+    <string name="slash">/</string>
+</resources>
