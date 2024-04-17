@@ -18,13 +18,26 @@
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignParentBottom="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentBottom="false"
         android:layout_centerInParent="true"
-        android:layout_marginBottom="50dp"
-        android:text=" Shree's Calculator"
-        android:textColorLink="#FF5722"
+        android:layout_marginTop="200dp"
+        android:text=" Simple Calculator"
+        android:textColorLink="#E60628"
         android:textSize="25sp"
         android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerInParent="false"
+        android:layout_marginRight="25dp"
+        android:layout_marginBottom="50dp"
+        android:text="- made by Shree"
+        android:textSize="18sp" />
 </RelativeLayout>
 
 
