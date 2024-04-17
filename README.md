@@ -1,2 +1,2 @@
 My first Android app calculator.
-  You can download the calculator.apk file to install my basic calculator app
+  You can download the calculator.apk file to see my basic calculator app
